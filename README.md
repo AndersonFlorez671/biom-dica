@@ -1,2 +1,2 @@
 # biom-dica
-Proyectos de Programación para iomédica
+Proyectos de Programación para biomédica
